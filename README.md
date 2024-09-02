@@ -24,7 +24,9 @@ Spuštění programu:
 Průběh stahování:
 
 `Stahuji data u url: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102`
+
 `Ukládám stažená data do souboru: beroun.csv`
+
 `Ukončuji progam`
 
 Částečný výstup:
